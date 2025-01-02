@@ -67,6 +67,8 @@ The Decentralized Health Record Management System is a blockchain-based framewor
 1. **Dapp Development**: Deploy fully functional web3 application.
 2. **Responsive data**: Deploying new contract for fetching new data about general health data and managing different views for each roles
 
+---
+
 ## License
 
 This system is licensed under the **MIT License**. All contracts are designed with extensibility and security in mind.
